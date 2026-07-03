@@ -19,6 +19,8 @@
 
 Let's Connect
 ​I am always open to discussing data, sharing insights or exploring collaborative opportunities.
-​LinkedIn: [https://www.linkedin.com/in/anureet-kaur-89933a39a]
+
+​LinkedIn:
+[https://www.linkedin.com/in/anureet-kaur-89933a39a]
 ​
  
