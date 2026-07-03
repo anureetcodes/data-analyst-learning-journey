@@ -1,4 +1,5 @@
-🚀 Data Analyst Learning Journey
+🚀 Data Analyst Learning Journey.  
+
 ​Welcome to my Data Analyst Learning Journey!
 ​I am currently pursuing a degree in Data Science and AI and this repository documents my hands-on progress as I build the technical and analytical skills required to thrive as a Data Analyst. Instead of just completing online courses, I apply what I learn through practical projects, business case studies, and real-world problem solving.
 ​🎯 My Goal
