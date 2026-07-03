@@ -8,7 +8,7 @@
  ### 🗂️ What You'll Find Here
 
 **Currently Exploring & Building:**
-* 📖 **Microsoft Learn  Data anyst career path :** Notes and practical exercises
+* 📖 **Microsoft Learn  Data analyst career path :** Notes and practical exercises
 * 📊 **Excel:** Advanced projects and interactive dashboards
 * 🐍 **Python:** codes and programs 
 
