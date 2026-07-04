@@ -53,6 +53,7 @@ he should be able to look at the  data and tell what data is trying to tell
 **💡 My Key Takeaways**
 
 Data is valuable only when converted into actionable insights.
+Different data professionals have different reponsiblities
 Business understanding is just as important as technical skills.
 Communication is a core skill for every data analyst.
 Every dashboard should answer a business question.
